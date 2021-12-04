@@ -4,7 +4,10 @@ public class Main {
         // ejercicios.ejecutar();
 
 
-        Ejercicio2 ejercicio2 = new Ejercicio2();
-        ejercicio2.ejecutar();
+        //Ejercicio2 ejercicio2 = new Ejercicio2();
+        //ejercicio2.ejecutar();
+
+        Ejercicio3 ejercicio3 = new Ejercicio3();
+        ejercicio3.ejecutar();
     }
 }
